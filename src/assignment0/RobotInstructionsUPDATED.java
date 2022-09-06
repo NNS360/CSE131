@@ -2,7 +2,7 @@ package assignment0;
 
 import support.assignment0.RobotMotionAdapter;
 
-public class RobotInstructions  {
+public class RobotInstructionsUPDATED  {
 
 	/*
 	 * Below you see a method called "act".
